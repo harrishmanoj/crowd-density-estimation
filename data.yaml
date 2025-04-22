@@ -1,0 +1,12 @@
+names:
+- person
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: croud-detection-nnoea
+  url: https://universe.roboflow.com/tropicals/croud-detection-nnoea/dataset/1
+  version: 1
+  workspace: tropicals
+test: ../test/images
+train: ../train/images
+val: ../train/images
