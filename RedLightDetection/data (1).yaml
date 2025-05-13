@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../train/images
+test: ../test/images
+
+nc: 1
+names: ['Red_Light']
+
+roboflow:
+  workspace: rahul-0czdh
+  project: my-first-project-helgb
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/rahul-0czdh/my-first-project-helgb/dataset/3
